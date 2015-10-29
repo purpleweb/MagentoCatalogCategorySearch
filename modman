@@ -1,14 +1,23 @@
-# app
-app/code/community/Catalin/SEO
+#code
+app/code/community/ISAAC/CatalogCategorySearch/Block/Form.php
+app/code/community/ISAAC/CatalogCategorySearch/Block/Form/Contents.php
+app/code/community/ISAAC/CatalogCategorySearch/Helper/Data.php
+app/code/community/ISAAC/CatalogCategorySearch/etc/system.xml
+app/code/community/ISAAC/CatalogCategorySearch/etc/config.xml
 
-# design
-app/design/frontend/base/default/layout/catalin_seo.xml
-app/design/frontend/base/default/template/catalin_seo
+#design
+app/design/frontend/default/modern/layout/catalogcategorysearch.xml
+app/design/frontend/base/default/layout/catalogcategorysearch.xml
+app/design/frontend/base/default/template/catalogsearch/form.phtml
+app/design/frontend/base/default/template/catalogsearch/form/contents.phtml
 
-# etc
-app/etc/modules/Catalin_SEO.xml
+#etc
+app/etc/modules/ISAAC_CatalogCategorySearch.xml
 
-# skin
-skin/frontend/base/default/css/catalin_seo
-skin/frontend/base/default/images/catalin_seo
-skin/frontend/base/default/js/catalin_seo
+#skin
+skin/frontend/default/modern/css/catalogcategorysearch.css
+skin/frontend/base/default/css/catalogcategorysearch.css
+
+#locale
+app/locale/nl_NL/ISAAC_CatalogCategorySearch.csv
+app/locale/en_US/ISAAC_CatalogCategorySearch.csv
