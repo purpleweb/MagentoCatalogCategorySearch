@@ -1,7 +1,7 @@
 README
 ================
 
-This plugin is the Magento Catalog Category Search plugin from GEEKYPLUGINS.
+This plugin is the Magento Catalog Category Search plugin from ISAAC's GEEKYPLUGINS.
 
 Original page : http://www.geekyplugins.com/magento/catalog-category-search.dot
 
