@@ -14,3 +14,8 @@ You can install this module using [Colin Mollenhour's](https://github.com/colinm
 $ modman init
 $ modman clone https://github.com/tonioMtl/MagentoCatalogCategorySearch.git
 ```
+You can update the module with this command
+
+```bash
+$ modman update MagentoCatalogCategorySearch
+```

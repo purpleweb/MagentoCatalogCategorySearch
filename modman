@@ -21,3 +21,4 @@ skin/frontend/base/default/css/catalogcategorysearch.css
 #locale
 app/locale/nl_NL/ISAAC_CatalogCategorySearch.csv
 app/locale/en_US/ISAAC_CatalogCategorySearch.csv
+app/locale/fr_FR/ISAAC_CatalogCategorySearch.csv
